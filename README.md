@@ -19,6 +19,6 @@ $ cd restassured-cucumber-protractor
 $ npm run e2etest or protractor conf.js
 ```
 ### Run test cases on basis of tags
-```
+```sh
 protractor conf.js --cucumberOpts.tags=@test2,@test1
 ```
